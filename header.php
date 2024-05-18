@@ -6,7 +6,7 @@
 					<div class="contactinfo">
 						<ul class="nav nav-pills">
 							<li><a href="#"><i class="fa fa-phone"></i> +62 812 6081 5410</a></li>
-							<li><a href="nooormanpaularitonang@gmail.com"><i class="fa fa-envelope"></i>  Booku@gmail.com</a></li>
+							<li><a href="nooormanpaularitonang@gmail.com"><i class="fa fa-envelope"></i>  intilitera@gmail.com</a></li>
 						</ul>
 					</div>
 				</div>
@@ -29,7 +29,7 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="logo pull-left">
-						<a href="index.php"><img src="images/home/booku.png" alt="" /></a>
+						<a href="index.php"><img src="images/home/intilitera.png" alt="" /></a>
 						
 					</div>
 				</div>

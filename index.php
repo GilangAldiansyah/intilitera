@@ -1,11 +1,11 @@
- 	<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Home | Mata Baca</title>
+    <title>Home | Inti Litera</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -55,7 +55,7 @@
 									<h1><span>Inti</span>Litera</h1>
 									<h2>Terbitkan bukumu disini</h2>
 									<!-- <p><b>Dapatkan semuanya mulai dari tanggal 12-14 Desember 2017</b></p> -->
-									<p><b>Banyak Diskonnya hanya di <i>Booku</i></b></p>
+									<p><b>Banyak Diskonnya hanya di <i>Intilitera</i></b></p>
 									<?php
 										if(@$_SESSION["Type"] != "admin"){
 											echo '<a class="btn btn-default get" href="login.php">Dapatkan Sekarang</a>';
